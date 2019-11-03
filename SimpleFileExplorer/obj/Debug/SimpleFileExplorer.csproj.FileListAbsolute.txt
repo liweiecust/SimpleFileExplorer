@@ -1,0 +1,197 @@
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\MainWindow.baml
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\App.g.cs
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\App.baml
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+E:\PerforceSource\SimpleFileExplorer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\MainWindow.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\App.g.cs
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\App.baml
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+E:\PerforceSource\SimpleFileExplorer - Copy\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+C:\Users\liwe\Desktop\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+C:\Users\0\Documents\WeChat Files\lv1243753033\Files\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\0\Desktop\SimpleFileExplorer - Question (2)\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\liwe\Desktop\SimpleFileExplorer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+D:\VS\SimpleFileExplorer - Answer\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojResolveAssemblyReference.cache
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\liwe\Desktop\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.Cache
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojAssemblyReference.cache
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.baml
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.g.cs
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\App.baml
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.cache
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+C:\Users\liwe\Desktop\Programming\SimpleFileExplorer_OK\SimpleFileExplorer - Answer\SimpleFileExplorer - Question\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe.config
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.exe
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\bin\Debug\SimpleFileExplorer.pdb
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csprojAssemblyReference.cache
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\MainWindow.baml
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Brushes.baml
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Button.baml
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.Image.baml
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\Styles\SimpleFileExplorer.Styles.ListBox.baml
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\MainWindow.g.cs
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\App.g.cs
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.cache
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer_MarkupCompile.lref
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\App.baml
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.g.resources
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.Properties.Resources.resources
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.GenerateResource.cache
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.csproj.CoreCompileInputs.cache
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.exe
+D:\Git\Programming\SimpleFileExplorer - Answer\SimpleFileExplorer\obj\Debug\SimpleFileExplorer.pdb
